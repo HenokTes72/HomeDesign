@@ -23,7 +23,12 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.xero.sampledesign"
+    },
+    "android": {
+      "package": "com.xero.sampledesign"
     }
+  }
   }
 }
